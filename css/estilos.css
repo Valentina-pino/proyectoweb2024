@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(darkblue, white);
+}
+
+h1{
+    color: white;
+    font-family:"comic sans ms";
+    font-weight: bolder;
+    font-style: italic;
+    letter-spacing: 5px;
+    text-align: center;
+    text-shadow: 0 0 0.3em gold;
+}
+
+.foto{
+    margin-top: 200px;
+    text-align: center;
+}
+.foto img{
+    mix-blend-mode: darken;
+    width: 400px;
+}
